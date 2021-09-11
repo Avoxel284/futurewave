@@ -1,6 +1,6 @@
 ![logo](images/logo.png)
 
-# Futurewave 2.0 osu! skin
+# Futurewave 2 osu! skin
 All assets were created using Adobe Illustrator
 
 <br>
