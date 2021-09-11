@@ -11,8 +11,10 @@ Releases > Futurewave \<screen ratio> > Download .osk file > Open file
 
 ## Screenshots
 
-![back button](images/backbutton.png)
+![menu](images/menu.png)
 ![mods](images/mods.png)
+![gameplay](images/gameplay.png)
+![pause screen](images/pausescreen.png)
 
 
 
