@@ -1,7 +1,9 @@
 ![logo](images/logo.png)
 
 # Futurewave 2 osu! skin
-All assets were created using Adobe Illustrator
+All assets were created using Adobe Illustrator.
+<br>
+This skin was made for the normal osu! gamemode so compatibility with other gamemodes isn't guaranteed.
 <br>
 
 ## How to install
@@ -16,6 +18,7 @@ More info here: https://osu.ppy.sh/wiki/en/Installation#adding-skins
 ![mods](images/mods.png)
 ![gameplay](images/gameplay.png)
 ![pause screen](images/pausescreen.png)
+![ranking screen](images/rankingscreen.png)
 
 
 
