@@ -2,7 +2,6 @@
 
 # Futurewave 2 osu! skin
 All assets were created using Adobe Illustrator
-
 <br>
 
 ## How to install
