@@ -6,6 +6,7 @@ All assets were created using Adobe Illustrator
 
 ## How to install
 Releases > Futurewave \<screen ratio> > Download .osk file > Open file
+More info here: https://osu.ppy.sh/wiki/en/Installation#adding-skins
 
 <br>
 
