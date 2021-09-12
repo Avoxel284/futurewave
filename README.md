@@ -6,8 +6,12 @@ All assets were created using Adobe Illustrator.
 This skin was made for the normal osu! gamemode so compatibility with other gamemodes isn't guaranteed.
 <br>
 
+## Credits
+- Avenir Next font by Adrian Frutiger
+
 ## How to install
-Releases > Futurewave \<screen ratio> > Download .osk file > Open file
+Releases > Futurewave \<version> > Download .osk file with needed screen size ratio > Open file
+<br>
 More info here: https://osu.ppy.sh/wiki/en/Installation#adding-skins
 
 <br>
