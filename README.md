@@ -28,7 +28,7 @@ More info here: https://osu.ppy.sh/wiki/en/Installation#adding-skins
 
 ![menu](images/menu.png)
 ![mods](images/mods.png)
-![gameplay](images/gameplay.png)
+![gameplay ](images/gameplay.png)
 ![pause screen](images/pausescreen.png)
 ![ranking screen](images/rankingscreen.png)
 ![spinner](images/spinner.png)
