@@ -6,7 +6,7 @@ All assets were created using Adobe Illustrator.
 <br>
 This skin was made for the normal osu! gamemode so compatibility with other gamemodes isn't guaranteed. Also, since my move to Windows, I have stopped creating a version for 16:10 screen ratios and so there is only support for 16:9.
 
-Current version: `v2.4.4`
+Latest version: `v2.4.4` [**Download skin**](https://github.com/Avoxel284/futurewave/releases/download/v2.4.4/Futurewave.2.4.4.osk)
 <br>
 
 ## Credits
