@@ -2,7 +2,7 @@
 
 # Futurewave 2 osu! skin
 
-**Latest version: `v2.4.5` [Download skin](https://github.com/Avoxel284/futurewave/releases/download/v2.4.4/Futurewave.2.4.5.osk)**
+**Latest version: `v2.4.5` [Download skin](https://github.com/Avoxel284/futurewave/releases/download/v2.4.5/Futurewave.2.4.5.osk)**
 
 All assets were created using Adobe Illustrator.
 <br>
