@@ -1,12 +1,13 @@
-![logo](images/logo.png)
+![logo](images/logo4.png)
 
-# Futurewave 2 osu! skin
 
-**Latest version: `v2.4.5` [Download skin](https://github.com/Avoxel284/futurewave/releases/download/v2.4.5/Futurewave.2.4.5.osk)**
+**Latest version: `v4.0.0` [Download skin](https://github.com/Avoxel284/futurewave/releases/download/v4.0.0/Futurewave.4.0.0.osk)**
 
 All assets were created using Adobe Illustrator.
 <br>
-This skin was made for the normal osu! gamemode so compatibility with other gamemodes isn't guaranteed. Also, since my move to Windows, I have stopped creating a version for 16:10 screen ratios and so there is only support for 16:9.
+This skin was made for the normal osu! gamemode so compatibility with other gamemodes isn't guaranteed. Suitable for 16:9 displays, also doesn't contain any sounds.
+
+Probably the last version of this skin.
 
 <br>
 
